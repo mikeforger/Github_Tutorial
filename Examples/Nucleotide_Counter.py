@@ -27,9 +27,9 @@ C=0
 N=0
 Nchar = ""
 
-############################################
-## For loop and check all the nucleotides ##
-############################################
+#####################################################
+## For loop and check all the nucleotides broccoli ##
+#####################################################
 
 for nucleotide in sequence:
     if nucleotide == "A":
