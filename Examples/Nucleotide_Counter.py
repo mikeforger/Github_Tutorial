@@ -57,4 +57,4 @@ outfile = open(location+outputname,"w")
 outfile.write(f"{A} {C} {G} {T}")
 outfile.close()
 
-# test
+# test 2
