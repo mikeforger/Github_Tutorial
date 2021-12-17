@@ -56,3 +56,5 @@ if N > 0:
 outfile = open(location+outputname,"w")
 outfile.write(f"{A} {C} {G} {T}")
 outfile.close()
+
+# test
